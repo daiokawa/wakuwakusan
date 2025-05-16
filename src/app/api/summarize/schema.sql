@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS summaries (
+  id SERIAL PRIMARY KEY,
+  target_type VARCHAR(50) NOT NULL,
+  target_id INTEGER NOT NULL,
+  generated_text TEXT NOT NULL,
+  created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+  updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE INDEX IF NOT EXISTS idx_summaries_target ON summaries(target_type, target_id); 
