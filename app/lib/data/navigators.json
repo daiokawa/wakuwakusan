@@ -1,0 +1,329 @@
+[
+  {
+    "navigatorId": "1",
+    "name": "信川竜太",
+    "nameReading": "Nobukawa Ryuta",
+    "profileImage": "/images/navigators/nobukawa_ryuta.jpg",
+    "programs": ["NEWSIC"],
+    "bio": "月曜から木曜の朝を担当するメインナビゲーター。ニュースと音楽の絶妙なバランスで朝の時間を彩る。",
+    "socialMedia": {
+      "twitter": "@nobukawa_ryuta",
+      "instagram": "@nobukawa_ryuta_official"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "2",
+    "name": "コウズマユウタ",
+    "nameReading": "Kouzuma Yuta",
+    "profileImage": "/images/navigators/kouzuma_yuta.jpg",
+    "programs": ["MUSIC ENCOUNTER", "サシデガタリ", "CROSS COUNTDOWN RADIO", "MISHMASH FRIDAY -金ズマ-"],
+    "bio": "クロスFMの中心的ナビゲーターの一人。音楽への造詣が深く、多数の番組を担当。特に新しい音楽やアーティスト情報の紹介に定評がある。",
+    "socialMedia": {
+      "twitter": "@kouzuma_yuta",
+      "instagram": "@kouzuma_official"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "3",
+    "name": "立山律子",
+    "nameReading": "Tateyama Ritsuko",
+    "profileImage": "/images/navigators/tateyama_ritsuko.jpg",
+    "programs": ["DAY+"],
+    "bio": "午後の時間帯を担当する人気女性ナビゲーター。心地よいトークと選曲で日中のリスナーを魅了する。",
+    "socialMedia": {
+      "twitter": "@tateyama_ritsuko",
+      "instagram": "@ritsuko_tateyama"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "4",
+    "name": "長友仍世",
+    "nameReading": "Nagatomo Jousei",
+    "profileImage": "/images/navigators/nagatomo_jousei.jpg",
+    "programs": ["仍世・ひのこのBARIKATA ROCK！"],
+    "bio": "ロック音楽に精通した個性派ナビゲーター。情熱的なトークと深い音楽知識でファンを獲得。",
+    "socialMedia": {
+      "twitter": "@nagatomo_jousei",
+      "instagram": "@jousei_rock"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "5",
+    "name": "日乃向めぐ留",
+    "nameReading": "Hinoko Meguru",
+    "profileImage": "/images/navigators/hinoko_meguru.jpg",
+    "programs": ["仍世・ひのこのBARIKATA ROCK！"],
+    "bio": "長友仍世とともにロック番組を担当。フレッシュな視点と感性で若いリスナー層からの支持も厚い。",
+    "socialMedia": {
+      "twitter": "@hinoko_meguru",
+      "instagram": "@meguru_hinoko"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "6",
+    "name": "ガーシー",
+    "nameReading": "GaaSyy",
+    "profileImage": "/images/navigators/gaasyy.jpg",
+    "programs": ["ガーシー&クワといっしょ"],
+    "bio": "独特の視点と率直なトークスタイルで話題を呼ぶナビゲーター。",
+    "socialMedia": {
+      "youtube": "@GaaSyyChannel"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "7",
+    "name": "桑原彰",
+    "nameReading": "Kuwahara Akira",
+    "profileImage": "/images/navigators/kuwahara_akira.jpg",
+    "programs": ["ガーシー&クワといっしょ"],
+    "bio": "ガーシーとのコンビで人気を集めるナビゲーター。落ち着いたトーンと冷静な分析が持ち味。",
+    "socialMedia": {
+      "twitter": "@kuwahara_akira"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "8",
+    "name": "松隈ケンタ",
+    "nameReading": "Matsukuma Kenta",
+    "profileImage": "/images/navigators/matsukuma_kenta.jpg",
+    "programs": ["BAD KNee RADIO!!"],
+    "bio": "音楽プロデューサーとしての一面も持つ実力派。音楽業界の裏話や最新トレンドに精通している。",
+    "socialMedia": {
+      "twitter": "@matsukuma_kenta",
+      "instagram": "@kenta_matsukuma"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "9",
+    "name": "Dr.中田光太郎",
+    "nameReading": "Dr. Nakada Kotaro",
+    "profileImage": "/images/navigators/dr_nakada.jpg",
+    "programs": ["Wellness presents Dr.中田 The Well-being"],
+    "bio": "医師としての専門知識を活かし、健康と幸福をテーマにした番組を担当。",
+    "socialMedia": {
+      "twitter": "@dr_nakada",
+      "instagram": "@dr.nakada_wellness"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "10",
+    "name": "嶋田和孝",
+    "nameReading": "Shimada Kazutaka",
+    "profileImage": "/images/navigators/shimada_kazutaka.jpg",
+    "programs": ["CHEER UP! FRIDAY"],
+    "bio": "金曜日の朝を担当する元気なナビゲーター。明るいキャラクターで週末モードへのスイッチを入れる。",
+    "socialMedia": {
+      "twitter": "@shimada_kazutaka",
+      "instagram": "@kazutaka_shimada"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "11",
+    "name": "honey",
+    "nameReading": "honey",
+    "profileImage": "/images/navigators/honey.jpg",
+    "programs": ["FRIDAY SPECIAL BAYSIDE SHOCK"],
+    "bio": "金曜午後の人気番組を担当。洗練された選曲とトークで週末の始まりを飾る。",
+    "socialMedia": {
+      "instagram": "@honey_crossfm"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "12",
+    "name": "とんこっちゃん･ふじ子",
+    "nameReading": "Tonkocchan Fujiko",
+    "profileImage": "/images/navigators/tonkocchan_fujiko.jpg",
+    "programs": ["FRIDAY SPECIAL BAYSIDE SHOCK"],
+    "bio": "honeyとともに金曜午後の番組を担当。親しみやすいキャラクターでリスナーからの人気が高い。",
+    "socialMedia": {
+      "twitter": "@tonkocchan_fujiko"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "13",
+    "name": "MASAKI",
+    "nameReading": "MASAKI",
+    "profileImage": "/images/navigators/masaki.jpg",
+    "programs": ["V･A･D weekend", "TAKE IT EASY"],
+    "bio": "週末の音楽番組を担当する実力派DJ。幅広い音楽知識と心地よい進行で定評がある。",
+    "socialMedia": {
+      "twitter": "@masaki_dj",
+      "instagram": "@masaki_crossfm"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "14",
+    "name": "相越久枝",
+    "nameReading": "Aigoshi Hisae",
+    "profileImage": "/images/navigators/aigoshi_hisae.jpg",
+    "programs": ["Brandnew! Saturday"],
+    "bio": "土曜の朝を担当する人気女性ナビゲーター。情報収集力と明るいトークが魅力。",
+    "socialMedia": {
+      "twitter": "@aigoshi_hisae",
+      "instagram": "@hisae_aigoshi"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "15",
+    "name": "近藤麻理恵",
+    "nameReading": "Kondo Marie",
+    "profileImage": "/images/navigators/kondo_marie.jpg",
+    "programs": ["グームホテル presents こんまり 近藤麻理恵のときめきラジオ"],
+    "bio": "国際的に有名な片づけコンサルタント。自身の整理哲学を通じてリスナーの人生を整えるヒントを提供する。",
+    "socialMedia": {
+      "twitter": "@MarieKondo",
+      "instagram": "@mariekondo"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "16",
+    "name": "冨永裕輔",
+    "nameReading": "Tominaga Yusuke",
+    "profileImage": "/images/navigators/tominaga_yusuke.jpg",
+    "programs": ["冨永裕輔のなんでもゆーすけ！"],
+    "bio": "シンガーソングライターとして活動しながらラジオナビゲーターも務める。音楽的センスを活かした番組作りが特徴。",
+    "socialMedia": {
+      "twitter": "@tominaga_yusuke",
+      "instagram": "@yusuke_tominaga"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "17",
+    "name": "岡部来亜",
+    "nameReading": "Okabe Raia",
+    "profileImage": "/images/navigators/okabe_raia.jpg",
+    "programs": ["TAKE IT EASY"],
+    "bio": "土曜午後番組を担当。親しみやすいトークスタイルと丁寧な進行が魅力。",
+    "socialMedia": {
+      "twitter": "@okabe_raia",
+      "instagram": "@raia_okabe"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "18",
+    "name": "栗田善太郎",
+    "nameReading": "Kurita Zentarou",
+    "profileImage": "/images/navigators/kurita_zentarou.jpg",
+    "programs": ["EYEVAN Presents blank verse"],
+    "bio": "深いインタビューと洞察力のある質問で、ゲストの新たな一面を引き出すことに長けたナビゲーター。",
+    "socialMedia": {
+      "twitter": "@kurita_zentarou"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "19",
+    "name": "鶴田弥生",
+    "nameReading": "Tsuruta Yayoi",
+    "profileImage": "/images/navigators/tsuruta_yayoi.jpg",
+    "programs": ["Brandnew! Sunday"],
+    "bio": "日曜の朝を担当する経験豊かなナビゲーター。温かみのある声と丁寧な進行が特徴。",
+    "socialMedia": {
+      "twitter": "@tsuruta_yayoi",
+      "instagram": "@yayoi_tsuruta"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "20",
+    "name": "紘毅",
+    "nameReading": "Hiroki",
+    "profileImage": "/images/navigators/hiroki.jpg",
+    "programs": ["やまやコミュニケーションズpresents 紘毅の日曜日はウタ好キ！"],
+    "bio": "シンガーソングライターでありナビゲーターでもある多才な人物。音楽への深い愛情を番組で表現している。",
+    "socialMedia": {
+      "twitter": "@hiroki_singer",
+      "instagram": "@hiroki_official"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "21",
+    "name": "椎葉ユウ",
+    "nameReading": "Shiiba Yu",
+    "profileImage": "/images/navigators/shiiba_yu.jpg",
+    "programs": ["KITAKYU JAZZ STREET＋"],
+    "bio": "ジャズに対する深い知識と愛情を持つナビゲーター。選曲とトークで魅力的なジャズの世界を紹介する。",
+    "socialMedia": {
+      "twitter": "@shiiba_yu_jazz"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "22",
+    "name": "窪み",
+    "nameReading": "Kubomi",
+    "profileImage": "/images/navigators/kubomi.jpg",
+    "programs": ["KITAKYU JAZZ STREET＋"],
+    "bio": "ジャズ番組を椎葉ユウとともに担当。独自の視点でジャズの新たな魅力を伝える。",
+    "socialMedia": {
+      "instagram": "@kubomi_jazz"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "23",
+    "name": "吉岡里帆",
+    "nameReading": "Yoshioka Riho",
+    "profileImage": "/images/navigators/yoshioka_riho.jpg",
+    "programs": ["UR LIFESTYLE COLLEGE"],
+    "bio": "女優としても活躍する人気ナビゲーター。ライフスタイルをテーマにした番組で自身の経験も交えながら進行する。",
+    "socialMedia": {
+      "instagram": "@riho_yoshioka"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "24",
+    "name": "あびる",
+    "nameReading": "Abiru",
+    "profileImage": "/images/navigators/abiru.jpg",
+    "programs": ["アニチュン"],
+    "bio": "アニメ・サブカルチャーに精通したナビゲーター。アニメソング番組を担当。",
+    "socialMedia": {
+      "twitter": "@abiru_anime"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "25",
+    "name": "nama©",
+    "nameReading": "Namac",
+    "profileImage": "/images/navigators/namac.jpg",
+    "programs": ["アニチュン"],
+    "bio": "あびるとともにアニメソング番組を担当。最新のアニメ事情にも詳しい。",
+    "socialMedia": {
+      "twitter": "@namac_anime"
+    },
+    "active": true
+  },
+  {
+    "navigatorId": "26",
+    "name": "佐渡島庸平",
+    "nameReading": "Sadoshima Youhei",
+    "profileImage": "/images/navigators/sadoshima_youhei.jpg",
+    "programs": ["CROSS FM Reboot Program〜マンガ編集者 佐渡島庸平の福岡を味わう"],
+    "bio": "出版界の重鎮、元小学館編集者。現在はコルク代表として多くの人気漫画家をプロデュースする。福岡の魅力を深掘りする番組を担当。",
+    "socialMedia": {
+      "twitter": "@sadoshima_youhei"
+    },
+    "active": true
+  }
+]
